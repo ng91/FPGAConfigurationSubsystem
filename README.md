@@ -1,7 +1,8 @@
 # FPGAConfigurationSubsystem
 
-It's a circuit which sets up an FPGA with a bitstream saved in SPI FLASH connected to MCU.
+It's a circuit which sets up an FPGA with a bitstream saved in SPI FLASH connected to MCU.   
 
+![Block diagram of FCS](block-diagram.png)   
 
 
 ## What chips are used?

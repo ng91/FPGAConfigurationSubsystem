@@ -18,6 +18,7 @@ Choosing bitstream can be done:
 or   
 - by setting a DIP switch and pressing a button   
 it is not defined Yet.   
+
 App on PC can also trigger bitstream loading(using USB-CDC or UART).
 
 

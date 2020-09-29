@@ -19,7 +19,7 @@ or
 - by setting a DIP switch and pressing a button   
 it is not defined Yet.   
 
-App on PC can also trigger bitstream loading(using USB-CDC or UART).
+App on PC can also trigger bitstream loading(using USB-CDC or UART).   
 
 
 ## What application will be able to do using FCS?

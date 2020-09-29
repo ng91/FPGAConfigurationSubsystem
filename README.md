@@ -18,6 +18,8 @@ Choosing bitstream can be done:
 or   
 - by setting a DIP switch and pressing a button   
 it is not defined Yet.   
+App on PC can also trigger bitstream loading(using USB-CDC or UART).
+
 
 ## What application will be able to do using FCS?
 PC can communicate with FCS directly using USB-CDC or indirectly(UART) with FT2232HL converter. It is able to:   
@@ -28,8 +30,6 @@ each FPGA bitstream
 - Choosing bitstream to send into FPGA    
 - Triggering sending bitstream into FPGA   
 - Communicate with FPGA using UART <-> STM32 <-> USART <-> FPGA(only after fpga configuration)   
-
-App on PC can also trigger bitstream loading(using USB-CDC or UART).   
 
 ## DONE
 - Written some firmware which allows user to change content of SPI FLASH over USB-CDC
